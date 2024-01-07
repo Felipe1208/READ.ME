@@ -1,6 +1,6 @@
 
-# Olá 👋 Eu sou o Felipe Jorge! 
-I am a software engineer at [Elucidata](https://elucidata.io/), where I specialize in solving complex biomedical data problems using cutting-edge technology and tools.
+# Olá 👋 Eu sou Felipe Jorge! 
+Especializado em tecnologias Back End.
 
 - 🌐 Visit my [portfolio website](https://pr2tik1.github.io/) for more information and to get in touch.
 - ✍️ Follow me on [Medium](https://pr2tik1.medium.com/) for more written content.
